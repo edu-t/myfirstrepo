@@ -1,0 +1,10 @@
+this is the first line
+1234 hola
+this is the second change in the second file
+this is the thrid change
+this is the fourth change
+this is the fifth change
+this is the sixth change
+
+this is eof
+this is another line
